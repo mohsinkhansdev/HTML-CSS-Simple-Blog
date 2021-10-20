@@ -1,1 +1,1 @@
-# HTML-CSS-Simple-Blog
+Created an Simple Blog with HTML & CSS.
