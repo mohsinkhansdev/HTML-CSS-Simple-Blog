@@ -1,0 +1,39 @@
+body {
+	border: 10px solid #bdc3c7;
+	float: 1px;
+	padding: 20px;
+	font-size: 20px;
+	mix-width: 1000px;
+	width: 80%;
+	margin: 0 auto;
+	font-family: Open Sans;
+}
+
+.quote {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
+
+.date {
+	color: #3498db;
+	text-transform: uppercase;
+	letter-spacing: 0.2rem;
+}
+
+h1 {
+	color: #2c3224;
+	font-size: 2.0rem;
+	text-transform: uppercase;
+}
+
+h2 {
+	color: #2c3e50;
+	font-size: 2.0rem;
+}
+
+
+hr {
+    border: 0;
+    height: 1px;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0));
+}
